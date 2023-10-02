@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "7301af5d121fe903",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d1671b1a9b8d01e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef44a5a83a07d413",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vue 生命周期.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cf75ab85ed8c6718",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7041b1121a04f4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f72e16ca44f06a2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b4fd81443abbdcc5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#wip",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5f44275a2124b86f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298.5
+  },
+  "right": {
+    "id": "3846c8b5cfeb5bbd",
+    "type": "split",
+    "children": [
+      {
+        "id": "fce1ea599d565c61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "735cc0b9faf54868",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Vue 生命周期.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "270287a72dc9a993",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Vue 生命周期.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "580c60183dcb0384",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e5721af0c0e496ec",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Vue 生命周期.md"
+              }
+            }
+          },
+          {
+            "id": "f347bc1dd518ada8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ef44a5a83a07d413",
+  "lastOpenFiles": [
+    "SSO与用户访问控制.md",
+    "babel 与 async generator 在 vue 插件项目中的配置.md",
+    "移动端h5页面开发.md",
+    "虚拟列表.md",
+    "动态表单设计.md",
+    "front_end/案例/动态多级下拉选单.md",
+    "测试与部署.md",
+    "front_end/笔试/2019百度.md",
+    "index.md",
+    "前端代码规范.md",
+    "front_end/工程化/监控.md",
+    "front_end/工程化/技术选型.md",
+    "front_end/工程化/工具.md",
+    "解析与渲染.md",
+    "关于.md",
+    "front_end/架构/架构选型.md",
+    "front_end/架构/MVVM.md",
+    "front_end/浏览器/浏览器特性.md",
+    "继承.md",
+    "传输体积优化.md",
+    "front_end/面试/经典问题.md",
+    "front_end/面试/WXG-企业微信 HR 面试.md",
+    "SSR.md",
+    "图片传输.md",
+    "浏览器性能优化.md",
+    "隐藏元素.md",
+    "front_end/面试",
+    "front_end/笔试",
+    "front_end/浏览器",
+    "front_end/案例",
+    "front_end/架构",
+    "front_end/工程化",
+    "front_end/优化技术",
+    "front_end/webpack",
+    "front_end/vue",
+    "front_end/react-native",
+    "assets/v2-db363acb52bf35ec64bb9cf9251a7121_720w.jpg",
+    "assets/v2-9cdd39da512d2a09a20aa77a05c6b0ad_720w.webp",
+    "assets/v2-6e5f05603526c1d259b300f20b8857a5_720w.webp",
+    "assets/v2-30e8ff6302f52e284050ff5cb36c56e9_r.jpg",
+    "assets/v2-1587e91f14923eae0fa7d846cb10df99_720w.jpg",
+    "assets/Pasted image 20230313083027.png",
+    "assets/Pasted image 20230309174346.png",
+    "assets/Pasted image 20230309173020.png",
+    "assets/Pasted image 20230309162000.png",
+    "assets/Pasted image 20230305135603.png"
+  ]
+}
