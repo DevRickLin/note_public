@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5d1671b1a9b8d01e",
+        "id": "997fe359d8facfd4",
         "type": "tabs",
         "children": [
           {
-            "id": "ef44a5a83a07d413",
+            "id": "2836c7539a28b351",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vue 生命周期.md",
+                "file": "babel 与 async generator 在 vue 插件项目中的配置.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#wip",
+                "query": "tag:#frontend",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vue 生命周期.md",
+                "file": "babel 与 async generator 在 vue 插件项目中的配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vue 生命周期.md",
+                "file": "babel 与 async generator 在 vue 插件项目中的配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vue 生命周期.md"
+                "file": "babel 与 async generator 在 vue 插件项目中的配置.md"
               }
             }
           },
@@ -144,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,34 +157,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ef44a5a83a07d413",
+  "active": "2836c7539a28b351",
   "lastOpenFiles": [
-    "SSO与用户访问控制.md",
-    "babel 与 async generator 在 vue 插件项目中的配置.md",
-    "移动端h5页面开发.md",
-    "虚拟列表.md",
-    "动态表单设计.md",
-    "front_end/案例/动态多级下拉选单.md",
-    "测试与部署.md",
-    "front_end/笔试/2019百度.md",
-    "index.md",
-    "前端代码规范.md",
-    "front_end/工程化/监控.md",
-    "front_end/工程化/技术选型.md",
-    "front_end/工程化/工具.md",
-    "解析与渲染.md",
-    "关于.md",
-    "front_end/架构/架构选型.md",
-    "front_end/架构/MVVM.md",
-    "front_end/浏览器/浏览器特性.md",
-    "继承.md",
-    "传输体积优化.md",
-    "front_end/面试/经典问题.md",
-    "front_end/面试/WXG-企业微信 HR 面试.md",
-    "SSR.md",
-    "图片传输.md",
-    "浏览器性能优化.md",
+    "原型链与ES6 Class.md",
     "隐藏元素.md",
+    "引擎实现.md",
+    "异步.md",
+    "移动端h5页面开发.md",
+    "选择器.md",
+    "虚拟列表.md",
+    "图片传输.md",
+    "事件.md",
+    "前端工程化.md",
+    "前端代码规范.md",
+    "普通流（正常布局流）.md",
+    "浏览器性能优化.md",
+    "類型.md",
+    "宽与高.md",
+    "解析与渲染.md",
+    "结构化克隆算法.md",
+    "继承.md",
+    "盒子模型(Box model)与FC.md",
+    "动态表单设计.md",
+    "传输体积优化.md",
+    "测试与部署.md",
+    "布局与解决方案.md",
+    "README.md",
+    "SSR.md",
+    "Vue diff算法.md",
+    "LICENSE",
+    "assets/v2-db363acb52bf35ec64bb9cf9251a7121_720w.jpg",
+    "assets/v2-9cdd39da512d2a09a20aa77a05c6b0ad_720w.webp",
+    "assets/v2-6e5f05603526c1d259b300f20b8857a5_720w.webp",
+    "assets/v2-30e8ff6302f52e284050ff5cb36c56e9_r.jpg",
+    "assets/v2-1587e91f14923eae0fa7d846cb10df99_720w.jpg",
+    "assets/oXby3yFqAcCEeB6skWrlCnCFYoa1zswnhMzW.png",
+    "assets/lifecycle.16e4c08e.png",
+    "assets/core-packages.08e2adc3.png",
+    "assets/congestioncontrol.jpg",
+    "assets/b5fa490ee4d948dba86a950bfe08dede~tplv-k3u1fbpfcp-zoom-in-crop-mark 4536 0 0 0.webp",
+    "assets",
     "front_end/面试",
     "front_end/笔试",
     "front_end/浏览器",
@@ -191,18 +204,6 @@
     "front_end/架构",
     "front_end/工程化",
     "front_end/优化技术",
-    "front_end/webpack",
-    "front_end/vue",
-    "front_end/react-native",
-    "assets/v2-db363acb52bf35ec64bb9cf9251a7121_720w.jpg",
-    "assets/v2-9cdd39da512d2a09a20aa77a05c6b0ad_720w.webp",
-    "assets/v2-6e5f05603526c1d259b300f20b8857a5_720w.webp",
-    "assets/v2-30e8ff6302f52e284050ff5cb36c56e9_r.jpg",
-    "assets/v2-1587e91f14923eae0fa7d846cb10df99_720w.jpg",
-    "assets/Pasted image 20230313083027.png",
-    "assets/Pasted image 20230309174346.png",
-    "assets/Pasted image 20230309173020.png",
-    "assets/Pasted image 20230309162000.png",
-    "assets/Pasted image 20230305135603.png"
+    "front_end/webpack"
   ]
 }
